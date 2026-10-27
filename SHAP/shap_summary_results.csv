@@ -1,0 +1,2 @@
+customers_explained,features_explained,top_feature,top_feature_mean_absolute_shap
+1000,8,numerical__tenure_months,1.2859115916966422
