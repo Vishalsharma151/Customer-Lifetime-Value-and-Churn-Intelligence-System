@@ -1,9 +1,0 @@
-feature,feature_value,shap_value,absolute_shap
-numerical__tenure_months,72.0,-1.933877017688942,1.933877017688942
-numerical__charge_difference,-3.563888888888897,1.9076702895387128,1.9076702895387128
-numerical__avg_historical_monthly_charge,117.6138888888889,1.232231391470953,1.232231391470953
-numerical__charge_difference_pct,-0.0303015989230297,0.2890295901471267,0.2890295901471267
-numerical__is_long_term_customer,1.0,-0.000513594143165468,0.000513594143165468
-numerical__is_new_customer,0.0,-0.00011612709350707145,0.00011612709350707145
-numerical__is_month_to_month,0.0,0.0,0.0
-numerical__is_long_contract,0.0,0.0,0.0
